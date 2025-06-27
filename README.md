@@ -16,13 +16,12 @@
 </div>
 
 <div align="center">
-  Soy una profesional apasionada por la innovación y el autoaprendizaje, con sólidos conocimientos en diseño, marketing para redes sociales, marketing digital y metodologías ágiles. Mi enfoque siempre está en crear soluciones creativas y efectivas que generen impacto.
-Busco integrarme a un ambiente laboral creativo y respetuoso, donde se valoren los conocimientos, se fomente la colaboración y se promueva el crecimiento tanto personal como profesional.
+  Soy una profesional apasionada por la innovación y el autoaprendizaje, con sólidos conocimientos en diseño, marketing digital y metodologías ágiles. Mi enfoque siempre está en crear soluciones creativas y efectivas que generen impacto. Busco integrarme a un ambiente laboral creativo y respetuoso, donde se valoren las personas, se fomente la colaboración y se promueva el crecimiento profesional.
 </div>
 
 <br>
 
-<p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="contacto" /></a></p>
+<p align = "center"><a href=""> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="contacto" /></a></p>
 
 
 <p align="center">
