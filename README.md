@@ -61,16 +61,17 @@
 
 <div align="center">
 <img src="https://img.icons8.com/color/26/000000/github-2.png"/>
-    
-<b>Conóceme un poco más:</b><br>
-Tengo más de 10 años de experiencia en atención al público.<br>
+
+## Conóceme un poco más:
+
+> Tengo más de 10 años de experiencia en atención al público.<br>
 Soy apasionada por el diseño y su impacto.<br>
 Autodidacta, siempre aprendiendo y estudiando.<br>
 Hice Realidad Aumentada en MetaSpark antes de que muriera.<br>
-Soy emprendedora hace 10 años. <br>
+>
+>> Soy emprendedora hace 10 años. <br>
 Tengo otra profesión también soy Cosmetóloga Profesional.<br>
 Promuevo el autocuidado en mis canales digitales.<br>
 Amo la Naturaleza y los animales #AdoptaNoCompres <br>
 Contacto: d.garridoolivares@gmail.com
-</div>
 
