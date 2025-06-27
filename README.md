@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
 </a>
 </div>
-
+<br>
 <div align="center">
-  Soy una profesional apasionada por la innovación y el autoaprendizaje, con sólidos conocimientos en diseño, marketing digital y metodologías ágiles. Mi enfoque siempre está en crear soluciones creativas y efectivas que generen impacto. Busco integrarme a un ambiente laboral creativo y respetuoso, donde se valoren las personas, se fomente la colaboración y se promueva el crecimiento profesional.
+  Soy una profesional apasionada por la innovación y el autoaprendizaje, con sólidos conocimientos en diseño, marketing digital. <br> 
+    Mi enfoque siempre está en crear soluciones creativas y efectivas que generen impacto. Busco integrarme a un ambiente laboral creativo y respetuoso, donde se valoren las personas, se fomente la colaboración y se promueva el crecimiento profesional.
 </div>
-
 
 <br>
 
@@ -32,18 +32,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Frameworks, Platforms and Libraries
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Tools
 
-
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Diseño & Marketing
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Otros
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -57,15 +56,16 @@
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Otras Cosas que tienes que saber de mi:
+<div align="center">
+<img src="https://img.icons8.com/color/26/000000/github-2.png"/>
+<b>Conóceme un poco más:</b><br>
+Tengo más de 10 años de experiencia en atención al público.<br>
+Soy apasionada por el diseño y su impacto.<br>
+Autodidacta, siempre aprendiendo y estudiando.<br>
+Hice Realidad Aumentada en MetaSpark antes de que muriera.<br>
+Tengo otra profesión también soy Cosmetóloga Profesional.<br>
+Promuevo el autocuidado en mis canales digitales.<br>
+Amo la Naturaleza y los animales #AdoptaNoCompres <br>
+Contacto: d.garridoolivares@gmail.com
+</div>
 
--15 años en atención al público.<br>
--Formada en lógica, programación y marketing digital.<br>
--Apasionada por el diseño y su impacto.<br>
--Autodidacta, siempre aprendiendo.<br>
--Hice Realidad Aumentada en MetaSpark antes de que muriera.<br>
--También soy cosmetóloga profesional.<br>
--Promuevo el autocuidado en mis canales digitales.<br>
--#AdoptaNoCompres<br>
--Hice un taller de stand up Comedy.<br>
-📫 Contacto: d.garridoolivares@gmail.com
