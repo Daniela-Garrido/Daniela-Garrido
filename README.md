@@ -1,6 +1,7 @@
-<!--🐱CAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+perfil!;Mi+nombre+es+Daniela+Garrido;Diseño,+Frontend,+y+Marketing+Digital)](https://git.io/typing-svg)
 
@@ -58,9 +59,8 @@
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 
-
 <br>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
-</div>
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
