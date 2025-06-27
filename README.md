@@ -2,11 +2,9 @@
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+a+mi+perfil!;Mi+nombre+es+Daniela+Garrido;Soy+Diseñadora+y+tengo+conocimiento+en:;Marketing+Digital...,;Desarrollo+Frontend...,;Desarrollo+WordPress...,;Edicion+de+videos+para+redes+sociales.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+perfil!;Mi+nombre+es+Daniela+Garrido;Diseño,+Frontend,+y+Marketing+Digital)](https://git.io/typing-svg)
-
-
-[badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
+  
 <div id="badges" align="center">
 <a href="">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -44,7 +42,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
@@ -59,9 +57,20 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Otras Cosas que tienes que saber de mi:
+
+👧 15 años en atención al público<br>
+💻 Formada en lógica, programación y marketing digital<br>
+❤️ Apasionada por el diseño y su impacto<br>
+📜 Autodidacta, siempre aprendiendo<br>
+📝 Escribo para dar vida a proyectos<br>
+⚡ También soy cosmetóloga profesional<br>
+🍚 Promuevo el autocuidado en mis canales<br>
+🐱 #AdoptaNoCompres<br>
+😆 Hice un taller de stand up Comedy<br>
+📫 Contacto: d.garridoolivares@gmail.com
 
 <br>
-<!--🐱CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
