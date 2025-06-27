@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+a+mi+perfil!;Mi+nombre+es+Daniela+Garrido;Soy+Diseñadora+y+tengo+conocimiento+en:;Marketing+Digital...,;Desarrollo+Frontend...,;Desarrollo+WordPress...,;Edicion+de+videos+para+redes+sociales.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+a+mi+perfil!;Mi+nombre+es+Daniela+Garrido;Soy+Diseñadora+y+tengo+conocimiento+en:;Marketing+Digital...,;Desarrollo+Frontend...,;Desarrollo+WordPress...,;Edicion+de+videos+para+redes+sociales...)](https://git.io/typing-svg)
 
   
 <div id="badges" align="center">
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
 </a>
 </div>
 
@@ -18,9 +18,8 @@
   Soy una profesional apasionada por la innovación y el autoaprendizaje, con sólidos conocimientos en diseño, marketing digital y metodologías ágiles. Mi enfoque siempre está en crear soluciones creativas y efectivas que generen impacto. Busco integrarme a un ambiente laboral creativo y respetuoso, donde se valoren las personas, se fomente la colaboración y se promueva el crecimiento profesional.
 </div>
 
-<br>
 
-<p align = "center"><a href=""> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="contacto" /></a></p>
+<br>
 
 <p align="center">
 <img src="https://img.icons8.com/color/26/000000/github-2.png"/>
@@ -56,16 +55,17 @@
 
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Otras Cosas que tienes que saber de mi:
 
-👧 15 años en atención al público<br>
-💻 Formada en lógica, programación y marketing digital<br>
-❤️ Apasionada por el diseño y su impacto<br>
-📜 Autodidacta, siempre aprendiendo<br>
-📝 Escribo para dar vida a proyectos<br>
-⚡ También soy cosmetóloga profesional<br>
-🍚 Promuevo el autocuidado en mis canales<br>
-🐱 #AdoptaNoCompres<br>
-😆 Hice un taller de stand up Comedy<br>
+-15 años en atención al público.<br>
+-Formada en lógica, programación y marketing digital.<br>
+-Apasionada por el diseño y su impacto.<br>
+-Autodidacta, siempre aprendiendo.<br>
+-Hice Realidad Aumentada en MetaSpark antes de que muriera.<br>
+-También soy cosmetóloga profesional.<br>
+-Promuevo el autocuidado en mis canales digitales.<br>
+-#AdoptaNoCompres<br>
+-Hice un taller de stand up Comedy.<br>
 📫 Contacto: d.garridoolivares@gmail.com
+
 
 <br>
 <p align="center">
