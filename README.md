@@ -7,10 +7,10 @@
 
 [badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
 <div id="badges" align="center">
-<a href="https://www.linkedin.com/in/shaunak-chandra-6b3363215/">
+<a href="">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://mail.google.com/mail/u/1/#inbox">
+<a href="">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
 </div>
