@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+a+mi+perfil!;Mi+nombre+es+Daniela+Garrido;Soy+Diseñadora+y+tengo+conocimiento+en:;Marketing+Digital...,;Desarrollo+Frontend...,;Desarrollo+WordPress...,;Edicion+de+videos+para+redes+sociales...)](https://git.io/typing-svg)
@@ -53,6 +53,10 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
+<br>
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Otras Cosas que tienes que saber de mi:
 
 -15 años en atención al público.<br>
@@ -65,9 +69,3 @@
 -#AdoptaNoCompres<br>
 -Hice un taller de stand up Comedy.<br>
 📫 Contacto: d.garridoolivares@gmail.com
-
-
-<br>
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
