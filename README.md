@@ -56,21 +56,21 @@
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="Tranquilo+todo+tiene+solucion".;++"Y+si+no+la+tiene+para+que+preocuparse".)](https://git.io/typing-svg) 
 
 
 <div align="center">
 <img src="https://img.icons8.com/color/26/000000/github-2.png"/>
+</div>
 
 ## Conóceme un poco más:
 
-> Tengo más de 10 años de experiencia en atención al público.<br>
+> Tengo más de 15 años de experiencia en atención al público.<br>
 Soy apasionada por el diseño y su impacto.<br>
 Autodidacta, siempre aprendiendo y estudiando.<br>
 Hice Realidad Aumentada en MetaSpark antes de que muriera.<br>
 >
->> Soy emprendedora hace 10 años. <br>
-Tengo otra profesión también soy Cosmetóloga Profesional.<br>
+>> Tengo otra profesión también soy Cosmetóloga Profesional.<br>
 Promuevo el autocuidado en mis canales digitales.<br>
 Amo la Naturaleza y los animales #AdoptaNoCompres <br>
 Contacto: d.garridoolivares@gmail.com
