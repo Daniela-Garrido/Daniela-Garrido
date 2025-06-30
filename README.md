@@ -56,7 +56,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="Tranquilo+todo+tiene+solucion".;++"Y+si+no+la+tiene+para+que+preocuparse".)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="Diseño,Marketing+digital,Edicion+de+videos.";++"Desarrollo+web,Desarrollo+Frontend,Worpress".)](https://git.io/typing-svg) 
 
 
 <div align="center">
