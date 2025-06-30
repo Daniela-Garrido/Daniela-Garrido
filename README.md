@@ -15,8 +15,9 @@
 </div>
 <br>
 <div align="center">
-  Soy una profesional apasionada por la innovación y el autoaprendizaje, con sólidos conocimientos en diseño, marketing digital. <br> 
-    Mi enfoque siempre está en crear soluciones creativas y efectivas que generen impacto. Busco integrarme a un ambiente laboral creativo y respetuoso, donde se valoren las personas, se fomente la colaboración y se promueva el crecimiento profesional.
+  Soy apasionada por la innovación y el aprendizaje, con experiencia en diseño, marketing digital y emprendimiento.<br>
+En los últimos años, me he formado en desarrollo web (WordPress), Frontend y Aplicaciones móviles Android (nativa), siempre con el objetivo de diseñar soluciones creativas, funcionales y centradas en el usuario.<br>
+Valoro entornos laborales donde prime el respeto, y en los que se impulse el crecimiento profesional. Busco integrarme en un equipo dinámico, donde pueda aportar mi visión y seguir desarrollándome.
 </div>
 
 <br>
