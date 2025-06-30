@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+a+mi+perfil!;Mi+nombre+es+Daniela+Garrido;Soy+Diseñadora+y+tengo+conocimiento+en:;Marketing+Digital...,;Desarrollo+Frontend...,;Desarrollo+WordPress...,;Edicion+de+videos+para+redes+sociales...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+a+mi+perfil!;Soy+Daniela+Garrido;Diseñadora+con+conocimientos+en:;Marketing+Digital...,;Desarrollo+Frontend...,;Desarrollo+WordPress...,;Edicion+de+videos...)](https://git.io/typing-svg)
 
   
 <div id="badges" align="center">
@@ -67,8 +67,9 @@
 
 > Tengo más de 15 años de experiencia en atención al público.<br>
 Soy apasionada por el diseño y su impacto.<br>
+Tengo conocimientos en Marketing digital, SEO y edicion de videos.<br>
 Autodidacta, siempre aprendiendo y estudiando.<br>
-Hice Realidad Aumentada en MetaSpark antes de que muriera.<br>
+Hice Realidad Aumentada en MetaSpark.<br>
 >
 >> Tengo otra profesión también soy Cosmetóloga Profesional.<br>
 Promuevo el autocuidado en mis canales digitales.<br>
