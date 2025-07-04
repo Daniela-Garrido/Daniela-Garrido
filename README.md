@@ -3,11 +3,6 @@
 
   
 <div id="badges" align="center">
-<a href="">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
 </a>
 </div>
 <br>
@@ -15,12 +10,7 @@
   Soy apasionada por la innovación y el aprendizaje, con experiencia en diseño, marketing digital y emprendimiento.<br>
 En los últimos años, me he formado en desarrollo web (WordPress), Frontend y Aplicaciones móviles Android (nativa), siempre con el objetivo de diseñar soluciones creativas, funcionales y centradas en el usuario.<br>
 Valoro entornos laborales donde prime el respeto, y en los que se impulse el crecimiento profesional. Busco integrarme en un equipo dinámico, donde pueda aportar mi visión y seguir desarrollándome.
-</div>
-
-<br>
-
-<p align="center">
-<img src="https://img.icons8.com/color/26/000000/github-2.png"/>
+</div> <br>
 
 <div align="center">
 
