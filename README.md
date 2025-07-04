@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="" />
-</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+a+mi+perfil!;Soy+Daniela+Garrido.)](https://git.io/typing-svg)
 
@@ -76,5 +73,4 @@ Hice Realidad Aumentada en MetaSpark.<br>
 >> Tengo otra profesión también soy Cosmetóloga Profesional.<br>
 Promuevo el autocuidado en mis canales digitales.<br>
 Amo la Naturaleza y los animales #AdoptaNoCompres <br>
-Contacto: d.garridoolivares@gmail.com
 
