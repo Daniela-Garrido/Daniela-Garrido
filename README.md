@@ -7,9 +7,9 @@
 </div>
 <br>
 <div align="center">
-  Soy apasionada por la innovación y el aprendizaje, con experiencia en diseño, marketing digital y emprendimiento.<br>
-En los últimos años, me he formado en desarrollo web (WordPress), Frontend y Aplicaciones móviles Android (nativa), siempre con el objetivo de diseñar soluciones creativas, funcionales y centradas en el usuario.<br>
-Valoro entornos laborales donde prime el respeto, y en los que se impulse el crecimiento profesional. Busco integrarme en un equipo dinámico, donde pueda aportar mi visión y seguir desarrollándome.
+Diseñadora y desarrolladora con alma innovadora. Me mueve crear soluciones que no solo sean funcionales, sino que también generen un impacto real en las personas.<br>
+Mi recorrido incluye desarrollo Web (WordPress), Front End y Apps móviles Android nativas, siempre con un enfoque centrado en el usuario y un ojo puesto en la creatividad.
+Busco un lugar donde pueda aportar ideas, seguir aprendiendo y, sobre todo, diseñar cosas con sentido.
 </div> <br>
 
 <div align="center">
@@ -55,7 +55,6 @@ Valoro entornos laborales donde prime el respeto, y en los que se impulse el cre
 ## Conóceme un poco más:
 
 > Tengo más de 15 años de experiencia en atención al público.<br>
-Soy apasionada por el diseño y su impacto.<br>
 Tengo conocimientos en Marketing digital, SEO y edicion de videos.<br>
 Autodidacta, siempre aprendiendo y estudiando.<br>
 Hice Realidad Aumentada en MetaSpark.<br>
