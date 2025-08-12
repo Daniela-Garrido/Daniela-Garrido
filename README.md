@@ -7,7 +7,7 @@
 </div>
 <br>
 <div align="center">
-Diseñadora y desarrolladora con alma innovadora. Me mueve crear soluciones que no solo sean funcionales, sino que también generen un impacto real en las personas.<br>
+Soy Daniela Garrido, Diseñadora y desarrolladora con alma innovadora. Me mueve crear soluciones que no solo sean funcionales, sino que también generen un impacto real en las personas.<br>
 Mi recorrido incluye desarrollo Web (WordPress), Front End y Apps móviles Android nativas, siempre con un enfoque centrado en el usuario y un ojo puesto en la creatividad.
 Busco un lugar donde pueda aportar ideas, seguir aprendiendo y, sobre todo, diseñar cosas con sentido.
 </div> <br>
@@ -25,9 +25,7 @@ Busco un lugar donde pueda aportar ideas, seguir aprendiendo y, sobre todo, dise
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
