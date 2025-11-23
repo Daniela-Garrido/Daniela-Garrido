@@ -1,11 +1,3 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+a+mi+perfil!;Soy+Daniela+Garrido.)](https://git.io/typing-svg)
-
-  
-<div id="badges" align="center">
-</a>
-</div>
-<br>
 <div align="center">
 Soy Daniela Garrido, diseñadora y desarrolladora con alma innovadora. Me mueve crear soluciones que no solo sean funcionales, sino que también generen un impacto real en las personas.
 Mi recorrido incluye desarrollo web (WordPress), front-end y aplicaciones móviles nativas para Android, siempre con un enfoque centrado en el usuario y un ojo puesto en la creatividad.
