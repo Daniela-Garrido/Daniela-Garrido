@@ -7,8 +7,8 @@
 </div>
 <br>
 <div align="center">
-Soy Daniela Garrido, Diseñadora y desarrolladora con alma innovadora. Me mueve crear soluciones que no solo sean funcionales, sino que también generen un impacto real en las personas.<br>
-Mi recorrido incluye desarrollo Web (WordPress), Front End y Apps móviles Android nativas, siempre con un enfoque centrado en el usuario y un ojo puesto en la creatividad.
+Soy Daniela Garrido, diseñadora y desarrolladora con alma innovadora. Me mueve crear soluciones que no solo sean funcionales, sino que también generen un impacto real en las personas.
+Mi recorrido incluye desarrollo web (WordPress), front-end y aplicaciones móviles nativas para Android, siempre con un enfoque centrado en el usuario y un ojo puesto en la creatividad.
 Busco un lugar donde pueda aportar ideas, seguir aprendiendo y, sobre todo, diseñar cosas con sentido.
 </div> <br>
 
