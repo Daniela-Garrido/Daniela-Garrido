@@ -50,14 +50,21 @@ Busco un lugar donde pueda aportar ideas, seguir aprendiendo y, sobre todo, dise
 <img src="https://img.icons8.com/color/26/000000/github-2.png"/>
 </div>
 
-## Conóceme un poco más:
 
-> Tengo más de 15 años de experiencia en atención al público.<br>
-Tengo conocimientos en Marketing digital, SEO y edicion de videos.<br>
-Autodidacta, siempre aprendiendo y estudiando.<br>
-Hice Realidad Aumentada en MetaSpark.<br>
+Sobre mis otros intereses
+También soy Cosmetóloga Profesional.
+Promuevo el autocuidado en mis canales digitales.
+Amo la naturaleza y los animales. #AdoptaNoCompres
+
+
+## Conóceme un poco más
+
+> Cuento con más de 15 años de experiencia en atención al público.
+Poseo conocimientos en marketing digital, SEO y edición de videos.
+Soy autodidacta; siempre estoy aprendiendo y estudiando.<br>
 >
->> Tengo otra profesión también soy Cosmetóloga Profesional.<br>
-Promuevo el autocuidado en mis canales digitales.<br>
-Amo la Naturaleza y los animales #AdoptaNoCompres <br>
+>> Sobre mis otros intereses
+También soy Cosmetóloga Profesional.
+Promuevo el autocuidado en mis canales digitales.
+Amo la naturaleza y los animales. <br>
 
